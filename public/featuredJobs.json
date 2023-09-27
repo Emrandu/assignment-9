@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "name": "Google",
+      "country_name": "Dhaka, Bangladesh",
+      "job_post_name": "Software Development Engineer",
+      "path": "/jobs/google",
+      "company_name": "Google Inc.",
+      "address": "Mountain View, CA",
+      "salary": "1500 - 3000",
+      "logo": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "job_type": "Full-Time",
+      "location": "Remote",
+      "job_description": "We are looking for a talented Software Engineer to join our team...",
+    "job_responsibilities": [
+      "Develop high-quality software solutions.",
+      "Collaborate with cross-functional teams to define, design, and ship new features.",
+      "Write maintainable, scalable, and efficient code.",
+      "Contribute to code reviews and identify areas for improvement."
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experience": "3+ years of software development experience."
+  },
+    
+    {
+      "id": 2,
+      "name": "Tesla",
+      "country_name": "Delly, India",
+      "path": "/jobs/tesla",
+      "job_post_name": "Cloud Solutions Architect",
+      "company_name": "Tesla, Inc.",
+      "address": "Palo Alto, CA",
+      "salary": "1800 -2400",
+      "logo": "https://images.unsplash.com/photo-1612810806695-30f7a8258391?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "We are seeking an Electrical Engineer to work on cutting-edge automotive projects...",
+      "job_responsibilities": [
+        "Design and develop electrical systems and components.",
+        "Collaborate with the hardware and software teams on product integration.",
+        "Perform testing and validation of electrical systems.",
+        "Provide technical support to cross-functional teams."
+      ],
+      "educational_requirements": "Bachelor's or Master's degree in Electrical Engineering.",
+      "experience": "5+ years of electrical engineering experience."
+    },
+    {
+      "id": 3,
+      "name": "Netflix",
+      "country_name": "Tokio, Japan",
+      "path": "/jobs/netflix",
+      "job_post_name": "iOS Developer",
+      "company_name": "Netflix, Inc.",
+      "address": "Los Gatos, CA",
+      "salary": "1600 - 2200",
+      "logo": "https://images.unsplash.com/photo-1662338034986-39d0ca684d6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1856&q=80",
+      "job_type": "Contract",
+      "location": "Remote",
+      "job_description": "Join our data science team to analyze and model user behavior for content recommendations...",
+      "job_responsibilities": [
+        "Collect and analyze large datasets to extract meaningful insights.",
+        "Build predictive models and algorithms for content recommendations.",
+        "Collaborate with engineers to deploy data-driven solutions.",
+        "Stay updated with the latest data science and machine learning techniques."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Data Science, Computer Science, or a related field.",
+      "experience": "2+ years of data science experience."
+    },
+    {
+      "id": 4,
+      "name": "Apple",
+      "country_name": "Lisbon, Australia",
+      "path": "/jobs/apple",
+      "job_post_name": "UI/UX Designer",
+      "company_name": "Apple Inc.",
+      "address": "Cupertino, CA",
+      "salary": "1200",
+      "logo": "https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our iOS development team to create cutting-edge mobile applications...",
+      "job_responsibilities": [
+        "Design and build advanced applications for the iOS platform.",
+        "Collaborate with cross-functional teams to define project requirements.",
+        "Ensure the performance, quality, and responsiveness of applications.",
+        "Stay updated with the latest iOS development trends and technologies."
+      ],
+      "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+      "experience": "3+ years of iOS app development experience."
+    },
+    {
+      "id": 5,
+      "name": "Amazon",
+      "country_name": "Dhaka, Bangladesh",
+      "job_post_name": "Data Scientist",
+      "path": "/jobs/amazon",
+      "company_name": "Amazon.com, Inc.",
+      "address": "Seattle, WA",
+      "salary": "2000 - 2500",
+      "logo": "https://images.unsplash.com/photo-1602359337719-a8bcbd1f7b51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1908&q=80",
+      "job_type": "Full-Time",
+      "location": "Remote",
+      "job_description": "We are seeking a Cloud Solutions Architect to design and implement scalable cloud solutions...",
+    "job_responsibilities": [
+      "Architect and design cloud-based solutions for scalability and reliability.",
+      "Collaborate with clients to understand their cloud infrastructure needs.",
+      "Provide technical leadership and guidance on cloud projects.",
+      "Stay updated with the latest cloud technologies and best practices."
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+    "experience": "5+ years of cloud architecture experience."
+    },
+    {
+      "id": 6,
+      "name": "Microsoft",
+      "country_name": "Dhaka, Bangladesh",
+      "path": "/jobs/microsoft",
+      "job_post_name": "Software Engineer",
+      "company_name": "Microsoft Corporation",
+      "address": "Redmond, WA",
+      "salary": "2150 - 3000",
+      "logo": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+      "job_type": "Contract",
+      "location": "Remote",
+      "job_description": "Join our software development team to create innovative solutions for our customers...",
+      "job_responsibilities": [
+        "Design, code, test, and debug software solutions.",
+        "Collaborate with product managers to define project requirements.",
+        "Provide technical expertise and mentorship to junior developers.",
+        "Stay updated with the latest software development tools and practices."
+      ],
+      "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+      "experience": "4+ years of software development experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 7,
+      "name": "Facebook",
+      "country_name": "Tokio, Japan",
+      "job_post_name": "Electrical Engineer",
+      "path": "/jobs/facebook",
+      "company_name": "Meta Platforms, Inc.",
+      "address": "Menlo Park, CA",
+      "salary": "1700 - 2500",
+      "logo": "https://images.unsplash.com/photo-1549813069-f95e44d7f498?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+      "job_type": "Full-Time",
+      "location": "Office",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    },
+    {
+      "id": 8,
+      "job_post_name": "Software Engineer",
+      "country_name": "Tokio, Japan",
+      "name": "Adobe",
+      "path": "/jobs/adobe",
+      "company_name": "Adobe Inc.",
+      "address": "San Jose, CA",
+      "salary": "960 - 1500",
+      "logo": "https://media.istockphoto.com/id/1510480016/photo/adobe-word-from-wooden-blocks.jpg?s=1024x1024&w=is&k=20&c=FQbchRVLS7PZ8k-5aQwjRR511EsnfNF9SYMLeZCwNrg=",
+      "job_type": "Contract",
+      "location": "Remote",
+      "job_description": "Join our machine learning team to develop cutting-edge AI algorithms and models...",
+      "job_responsibilities": [
+        "Design and implement machine learning models for various applications.",
+        "Collaborate with data scientists and software engineers to integrate ML solutions.",
+        "Experiment with new ML techniques and frameworks.",
+        "Stay updated with the latest advancements in machine learning."
+      ],
+      "educational_requirements": "Master's or Ph.D. in Machine Learning, Computer Science, or a related field.",
+      "experience": "3+ years of machine learning engineering experience."
+    }
+  ]
+  

@@ -1,0 +1,8 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-bottom: 30px;
+}
