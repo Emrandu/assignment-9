@@ -4,6 +4,7 @@ import img from '../image/imran.jpg'
 import Job from './Job'
 import { Link, useLoaderData } from 'react-router-dom';
 import Featured from './Featured';
+import JobDetails from './JobDetails';
 
 
 const Home = () => {
@@ -12,10 +13,10 @@ const Home = () => {
     const [posts, setPosts] = useState([]);
     // const [showAll, setShowAll] = useState(false)
     const [showAll, setShowAll] = useState(false)
-    // console.log(posts)
+     console.log(posts)
    
     useEffect(()=>{
-        fetch('featuredJobs.json')
+        fetch('https://restcountries.com/v3.1/all')
         .then(res=>res.json())
         .then(data=>setPosts(data))
     },[])
@@ -85,7 +86,7 @@ const Home = () => {
 
               <div className='grid grid-cols-3 mt-12 ml-36'>
               {
-                  posts.slice(0, showAll ? 12 : 6).map(post =><Featured 
+                  posts.slice(0, showAll ? 250 : 6).map(post =><Featured 
                   key={post.id}
                   post = {post}
                   ></Featured>)
@@ -105,14 +106,18 @@ const Home = () => {
                   
 
               </div>
+
+
+                <div>
+                  
+                </div>
+
             </section>
 
 
 
 
-            <footer>
-
-            </footer>
+           
                
             </div>   
         </>

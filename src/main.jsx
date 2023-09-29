@@ -28,8 +28,11 @@ const router = createBrowserRouter([
       
       },
       {
-       path:'/details',
-       element:<JobDetails/>
+       path:'details/:cca2',
+       element:<JobDetails />,
+       loader:({params}) => fetch(`https://restcountries.com/v3.1/alpha/${params.cca2}`)
+      
+
       
       
       },
